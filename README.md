@@ -14,9 +14,7 @@
 
 ## 硬件清单
 
-- ESP32-C3 Super Mini
-- 0.42 寸 72x40 I2C OLED，常见控制芯片为 SSD1306
-- 杜邦线若干
+- ESP32-C3 Super mini带OLED屏[点击购买](https://item.taobao.com/item.htm?id=965597504812&mi_id=0000Tsyfi7JPjkZA0IVB35pOD8qbz-8FKhmi1us6fzx1GGE&skuId=6070989050842&spm=tbpc.boughtlist.suborder_itempic.d965597504812.41152e8dD6MavP) 
 
 ## 接线
 
@@ -116,3 +114,6 @@ constexpr uint16_t CAT_FRAME_MS = 45;
 ```
 
 数值越小播放越快，数值越大播放越慢。
+
+## 更多教程
+更多教程可以到我的网站[微联编程](https://code.welinklab.com)进行学习
